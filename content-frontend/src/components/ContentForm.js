@@ -50,7 +50,7 @@ const ContentForm = () => {
         <div className="form-group mb-3">
           <input type="text" className="form-control" id="link" name="link" value={content.link} onChange={handleChange} placeholder="Link" />
         </div>
-        <button type="submit" className="btn btn-primary">Submit</button>
+        <button type="submit" className="btn btn-outline-light w-100 ">Submit</button>
       </form>
       {/* Removed showPreview and submittedData states as they are not used */}
     </div>

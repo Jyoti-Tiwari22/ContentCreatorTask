@@ -49,6 +49,9 @@
   margin-right: 10px;
 }
 .contentPrev {
-  height: 64vh;
+  height: 50vh;
   overflow-y: auto;
+}
+.mt-cont {
+  margin-top: 7rem;
 }

@@ -8,7 +8,7 @@ import './App.css';
 function App() {
     return (
         <section className='d-flex justify-content-center Hero-banner'>
-            <div className='text-center mt-5'>
+            <div className='text-center mt-cont'>
                 <h1 className="text-white font-weight-bold display-4">Content Creators Form</h1>
                 <p className="text-white">Hey there! Please fill in this form to avail content writing services.</p>
                 <Router>
